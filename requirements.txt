@@ -1,0 +1,96 @@
+# ==============================
+# LLM PROVIDERS
+# ==============================
+
+openai
+langchain-openai
+
+google-genai
+langchain-google-genai
+
+# Hugging Face
+huggingface-hub
+transformers
+sentence-transformers
+langchain-huggingface
+
+
+# ==============================
+# LANGCHAIN / AGENTS / RUNNABLES
+# ==============================
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+
+
+# ==============================
+# VECTOR DATABASES
+# ==============================
+
+chromadb
+langchain-chroma
+faiss-cpu
+
+
+# ==============================
+# EMBEDDINGS / TOKENIZATION
+# ==============================
+
+tiktoken
+
+
+# ==============================
+# DOCUMENT LOADERS
+# ==============================
+
+pypdf
+python-docx
+docx2txt
+unstructured
+
+# Web / HTML documents
+beautifulsoup4
+requests
+lxml
+html2text
+
+
+# ==============================
+# DATA PROCESSING
+# ==============================
+
+numpy
+pandas
+
+
+# ==============================
+# API / BACKEND
+# ==============================
+
+fastapi
+uvicorn
+
+
+# ==============================
+# ENVIRONMENT VARIABLES
+# ==============================
+
+python-dotenv
+
+
+# ==============================
+# UI
+# ==============================
+
+streamlit
+
+
+# ==============================
+# DEVELOPMENT
+# ==============================
+
+ipykernel
+tavily
